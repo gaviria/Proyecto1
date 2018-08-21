@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Proyecto
+comment0.text=\r\n\r\n\ @author\ fgavi\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+comment2.params=base
+comment2.target=double\ cuadrado(double)
+comment3.params=base\ altura
+comment3.target=double\ rectangulo(double,\ double)
+comment4.params=radio
+comment4.target=double\ circulo(double)
+comment5.params=base\ altura
+comment5.target=double\ triangulo(double,\ double)
+numComments=6
